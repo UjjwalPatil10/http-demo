@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Topper skills",
+      "age": 6,
+      "city": "pune",
+      "mobile": "8888424337"
+    }
+  ]
+}
